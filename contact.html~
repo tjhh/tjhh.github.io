@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html style=""><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Timothy J. H. Hele</title>
+    <link rel="stylesheet" href="index_files/styles.css">
+    <link rel="stylesheet" href="index_files/pygment_trac.css">
+    <script src="index_files/jquery.js"></script>
+    <script src="index_files/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>Dr Tim Hele</h1>
+          <p>Contact</p>
+	  <div align="center"><a href="index.html">Research</a> | <a href="pubs.html">Publications</a> | <a href="cv.html">CV</a> | <a href="contact.html">Contact</a></div><br>
+          <span class="credits right">Hosted on GitHub Pages — Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+        </div>
+
+<h3>Email</h3>
+<p>tjhh2 {at} cam.ac.uk</p>
+
+<h3>
+<a id="links" class="anchor" href="#links" aria-hidden="true"><span class="octicon octicon-link"></span></a>Links</h3>
+
+<ul>
+<li>More general information including past employment can be found on <a href="https://uk.linkedin.com/in/timhele">linkedin</a>.</li>
+<li><a href="pubs.html">Publications list</a>; detailed citation statistics are available on <a href="http://scholar.google.co.uk/citations?user=DH0CmqMAAAAJ&amp;hl=en">google scholar</a>.</li>
+<li><a href="http://www.jesus.cam.ac.uk/?fellow=hele-timothy">Jesus College webpage</a></li>
+<li><a href="http://www-stuart.ch.cam.ac.uk/tjhh.htm">Cambridge Chemistry department webpage</a></li>
+</ul>
+
+<p>
+ </p><div align="center"><a href="index.html">Research</a> | <a href="pubs.html">Publications</a> | <a href="cv.html">CV</a> | <a href="legal.html">Legal</a> | <a href="contact.html">Contact</a>
+</div><br>
+<p></p>
+
+      </section>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  
+
+</body></html>
