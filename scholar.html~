@@ -1,0 +1,163 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Dr Timothy J. H. Hele: Publications</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>Publications</h1>
+          <p>Research articles, theses etc</p>
+	  <div align="center"><a href="index.html">Research</a> | <a href="pubs.html">Publications</a> | <a href="cv.html">About</a> | <a href="contact.html">Contact</a></div><br>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+        </div>
+
+Approximate citation statistics can be found on <a href="https://scholar.google.co.uk/citations?user=DH0CmqMAAAAJ&hl=en&oi=ao">Google Scholar</a>
+<br>
+
+<h3>
+<a id="2017" class="anchor" href="#2017" aria-hidden="true"><span class="octicon octicon-link"></span></a>2017</h3>
+<ul>
+<li>
+Thermal quantum time-correlation functions from classical-like dynamics<br>
+T. J. H. Hele<br>
+<em>submitted</em><br>
+<a href="https://arxiv.org/abs/1701.03016">arxiv</a> <a href="pubs/hel17a.pdf">PDF</a>
+</li>
+</ul>
+
+<h3>
+<a id="2016" class="anchor" href="#2016" aria-hidden="true"><span class="octicon octicon-link"></span></a>2016</h3>
+<ul>
+<li>
+Competing quantum effects in the free energy profiles and diffusion rates of hydrogen and deuterium molecules through clathrate hydrates<br>
+J. R. Cendagorta, A. Powers, T. J. H. Hele, O. Marsalek, Z. Bačić and M. E. Tuckerman<br>
+<em>Phys. Chem. Chem. Phys.</em> <b>18</b> (2016) 32169-32177 <br>
+<a href="http://pubs.rsc.org/en/content/articlelanding/2016/cp/c6cp05968f">PCCP</a>
+<a href="http://arxiv.org/abs/1609.00272">arxiv</a>
+<a href="pubs/cen16a.pdf">PDF</a>
+</li>
+
+<li>Deriving the exact nonadiabatic quantum propagator in the mapping variable representation<br>
+T. J. H. Hele and N. Ananth<br>
+Selected for presentation at the Reaction Rate Theory <em>Faraday discussion</em> held in Cambridge, UK, September 2016.<br>
+<a href="http://arxiv.org/abs/1605.00608">arxiv</a>
+<a href="pubs/hel16c.pdf">PDF</a>
+</li>
+<li>An alternative derivation of ring-polymer molecular dynamics transition-state theory<br>
+T. J. H. Hele and S. C. Althorpe<br>
+<em>J. Chem. Phys.</em> <b>144</b> (2016) 174107<br>
+<a href="http://dx.doi.org/10.1063/1.4947589">JCP</a> 
+<a href="http://arxiv.org/abs/1603.07966">arxiv</a>
+<a href="pubs/hel16b.pdf">PDF</a> <br>
+<em>This article featured as an Editor's Pick on the JCP homepage</em>
+</li>
+<li>On the relation between thermostatted ring polymer molecular dynamics and exact quantum dynamics<br>
+T. J. H. Hele<br>
+<em>Mol. Phys.</em> <b>114</b> <em>9</em> (2016) 1461-1471, DOI: 10.1080/00268976.2015.1136003<br>
+<a href="http://arxiv.org/abs/1508.05820">arxiv</a> (submitted version)
+<a href="pubs/hel15on.pdf">PDF</a> (accepted version) 
+<a href="http://www.tandfonline.com/doi/full/10.1080/00268976.2015.1136003">Mol. Phys.</a> (published version) </li>
+</ul>
+
+<h3>
+<a id="2015" class="anchor" href="#2015" aria-hidden="true"><span class="octicon octicon-link"></span></a>2015</h3>
+
+<ul>
+<li>Should Thermostatted Ring Polymer Molecular Dynamics be used to calculate
+thermal reaction rates?<br>
+T. J. H. Hele and Y. V. Suleimanov<br>
+<em>J. Chem. Phys.</em> <b>143</b> (2015) 074107.<br> 
+<a href="http://dx.doi.org/10.1063/1.4928599">JCP</a>
+<a href="http://arxiv.org/abs/1506.07460">arxiv</a>
+<a href="pubs/hel15trpmd.pdf">PDF</a> </li> 
+<li>Communication: Relation of centroid
+molecular dynamics and ring-polymer molecular dynamics to exact quantum dynamics<br>
+T. J. H. Hele, M. J. Willatt, A. Muolo and S. C. Althorpe<br>
+<em>J. Chem. Phys</em> <b>142</b> (2015) 191101.<br>
+<a href="http://dx.doi.org/10.1063/1.4921234">JCP</a>
+<a href="http://arxiv.org/abs/1505.05065">arxiv</a>
+<a href="pubs/hel15rel.pdf">PDF</a> <br>
+<em>This article was <a href="http://aip-info.org/1XPS-3ZLYS-91C9REAG03/cr.aspx">showcased by J. Chem. Phys.</a> as one of the most read papers of 2015</em>
+</li>
+<li>Boltzmann-conserving classical dynamics in quantum time-correlation functions: ‘Matsubara dynamics’<br>
+T. J. H. Hele, M. J. Willatt, A. Muolo and S. C. Althorpe<br>
+<em>J. Chem. Phys</em> <b>142</b> (2015) 134103.<br>
+<a href="http://dx.doi.org/10.1063/1.4916311">JCP</a>
+<a href="http://arxiv.org/abs/1504.02227">arxiv</a>
+<a href="pubs/hel15.pdf">PDF</a></li>
+</ul>
+
+<h3>
+<a id="2014" class="anchor" href="#2014" aria-hidden="true"><span class="octicon octicon-link"></span></a>2014</h3>
+<ul>
+<li> Quantum Transition-State Theory <br>
+T. J. H. Hele<br>
+Dissertation submitted for the degree of Doctor of Philosophy, University of Cambridge<br>
+<a href="http://arxiv.org/abs/1408.0996">arxiv</a>
+<a href="pubs/hel14phdred.pdf">PDF</a></li>
+</li>
+</ul>
+
+<h3>
+<a id="2013" class="anchor" href="#2013" aria-hidden="true"><span class="octicon octicon-link"></span></a>2013</h3>
+
+<ul>
+<li> On the uniqueness of t → 0 + quantum transition-state theory<br>
+T. J. H. Hele and S. C. Althorpe<br>
+<em>J. Chem. Phys</em> <b>139</b> (2013) 084116.<br>
+<a href="http://dx.doi.org/10.1063/1.4819077">JCP</a>
+<a href="http://arxiv.org/abs/1307.8035">arxiv</a>
+<a href="pubs/hel13unique.pdf">PDF</a></li>
+<li> Derivation of a true (t → 0 + ) quantum transition-state theory. II.
+Recovery of the exact quantum rate in the absence of recrossing<br>
+S. C. Althorpe and T. J. H. Hele<br>
+<em>J. Chem. Phys</em> <b>139</b> (2013) 084115.<br>
+<a href="http://dx.doi.org/10.1063/1.4819076">JCP</a>
+<a href="http://arxiv.org/abs/1307.3020">arxiv</a>
+<a href="pubs/alt13.pdf">PDF</a></li>
+<li>Derivation of a true (t → 0 + ) quantum transition-state theory. I.
+Uniqueness and equivalence to ring-polymer molecular dynamics transition-state theory.<br>
+S. C. Althorpe and T. J. H. Hele<br>
+<em>J. Chem. Phys</em> <b>138</b> (2013) 084108.<br>
+<a href="http://dx.doi.org/10.1063/1.4792697">JCP</a>
+<a href="http://arxiv.org/abs/1307.3729">arxiv</a>
+<a href="pubs/hel13.pdf">PDF</a></li>
+</ul>
+
+<h3>
+<a id="2011" class="anchor" href="#2011" aria-hidden="true"><span class="octicon octicon-link"></span></a>2011</h3>
+<ul>
+<li>An Electronically Non-Adiabatic Generalization of Ring Polymer Molecular Dynamics <br>
+T. J. H. Hele<br>
+Dissertation submitted for the degree of Master of Chemistry, University of Oxford<br>
+<a href="http://arxiv.org/abs/1308.3950">arxiv</a>
+<a href="pubs/hel11.pdf">PDF</a></li>
+</ul>
+
+<br>
+<br>
+<div align="center"><a href="index.html">Research</a> | <a href="pubs.html">Publications</a> | <a href="cv.html">About</a> | <a href="legal.html">Legal</a> | <a href="contact.html">Contact</a>
+</div><br>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
+</html>
